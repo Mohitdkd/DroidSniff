@@ -1,6 +1,6 @@
 DroidSniff is an Android app for Security analysis in wireless networks and capturing facebook, twitter, linkedin and other accounts.
 ===================
-DroidSniff requires ROOT!
+DroidSniff requires Non ROOT!
 
 Please note:
 ===================
